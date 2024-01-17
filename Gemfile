@@ -73,3 +73,5 @@ end
 
 gem 'http'
 gem 'rack-cors'
+
+gem'pry'
